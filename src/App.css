@@ -10,11 +10,11 @@ body {
 
 .container {
     background-color: #ffffff;
-    padding: 40px; /* Increased padding for more space */
+    padding: 40px; 
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
     text-align: center;
-    width: 400px; /* Increased width for a larger box */
+    width: 400px; 
 }
 
 h1 {
@@ -58,6 +58,6 @@ input {
 footer {
     color: #666;
     text-align: center;
-    margin-top: 20px; /* Added margin for spacing */
-    width: 100%; /* Ensures footer spans the width */
+    margin-top: 20px; 
+    width: 100%;
 }
