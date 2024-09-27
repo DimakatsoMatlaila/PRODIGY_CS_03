@@ -4,6 +4,7 @@ import './App.css';
 const App: React.FC = () => {
   const [password, setPassword] = useState('');
   const [strength, setStrength] = useState('');
+  //Production Deployment
 
   const checkPasswordStrength = (pwd: string) => {
     let strengthLevel = 'Weak';
